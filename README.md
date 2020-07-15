@@ -8,3 +8,5 @@ Machine Learning models used:
 2- Random Forest  
 3- Logistic Regression  
 4- Artificial Neural Networks (Deep Learning)  
+
+For more information and details download and check the presentation file: Reza Marzban - Presentation.pptx  
